@@ -1,0 +1,85 @@
+{"_id":"069Ns6Jq92N7stNp","name":"Bosses","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":"#bb6e16","flags":{}}
+{"_id":"0fkshNeOPb4JQFoi","name":"Midi SRD Spells","type":"Item","parent":null,"sorting":"a","sort":1200000,"flags":{}}
+{"_id":"2MAlflT2BNswfEzz","name":"Midrot's cards","type":"Cards","parent":null,"sorting":"m","sort":250000,"flags":{"ready-to-use-cards":{"owner":"MZd0zvQjIAiSgjWx"}}}
+{"_id":"30jVYyYXyQ4CzyMj","name":"Malarian's Story","type":"Scene","parent":null,"sorting":"a","sort":775000,"color":null,"flags":{}}
+{"_id":"3H8BYFOqEcnbZoN5","name":"Spells (SRD)","type":"Item","parent":null,"sorting":"a","sort":1100000,"flags":{}}
+{"_id":"40BrOAUBGkKQTXlk","name":"Treasury Maps","type":"JournalEntry","parent":null,"sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"44HyIhnGoaCK5wA6","name":"Quest List","type":"JournalEntry","parent":null,"sorting":"a","sort":275000,"color":"#75691a","flags":{}}
+{"_id":"4OpZFUf5AcV7Gd1x","name":"Rare","type":"Item","parent":null,"sorting":"a","sort":700000,"color":null,"flags":{}}
+{"name":"Stories","type":"JournalEntry","parent":"44HyIhnGoaCK5wA6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"5KKQVHjm7Im0HdaG"}
+{"name":"Plant","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"6ojQgtmM66ZxfVX4"}
+{"name":"Thousend Teeth Lair","type":"JournalEntry","parent":"tuY1EEp2YhGt0KyJ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"76Tj2PncRpEdGRKX"}
+{"_id":"7lGd7v5SG7mqfxTs","name":"Test's cards","type":"Cards","parent":null,"sorting":"m","sort":500000,"flags":{"ready-to-use-cards":{"owner":"dkfHTms58hKxcUv5"}}}
+{"name":"Beast","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"88VZuXQdxRdkEcBa"}
+{"_id":"8JsCvWjudV55Em4N","name":"Named NPCs","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":"#7476cd","flags":{}}
+{"name":"Cintra","type":"JournalEntry","parent":"44HyIhnGoaCK5wA6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8z6ovsMyFzfiWdka"}
+{"_id":"AiGpkSJWt8JtjM0N","name":"States","type":"Actor","parent":null,"sorting":"a","sort":600000,"color":"#78793e","flags":{}}
+{"_id":"B4W0FU38tecmbn92","name":"Kum Denizi","type":"Scene","parent":null,"sorting":"a","sort":200000,"color":"#b98337","flags":{}}
+{"_id":"CSdQqh9xx7zoXNyM","name":"Very Rare Runes","type":"Item","parent":null,"sorting":"a","sort":1500000,"color":"#583d8a","flags":{}}
+{"_id":"CbsDmqtIVWglydvN","name":"Berk's cards","type":"Cards","parent":null,"sorting":"m","sort":100000,"flags":{"ready-to-use-cards":{"owner":"q1F45eu9oEOxSWC8"}}}
+{"_id":"DckhKWeoCO4c3zSY","name":"Dunamancy Spells","type":"Item","parent":null,"sorting":"a","sort":1900000,"color":"#000000","flags":{}}
+{"name":"Potion Matarials","type":"Item","parent":"mgceZfzH6qphyWVM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"E8cgjof4AgRhdctf"}
+{"name":"Aberration","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"EbclId02Xczpdrl1"}
+{"_id":"EqUmtdnrGtFlXdDp","name":"Items","type":"Item","parent":null,"sorting":"a","sort":900000,"color":null,"flags":{}}
+{"_id":"FhUgnHd4tGNNkpgW","name":"Common","type":"Item","parent":null,"sorting":"a","sort":650000,"color":null,"flags":{}}
+{"name":"Item Crafting Materials","type":"Item","parent":"mgceZfzH6qphyWVM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"FpYnWbHKhmubbbfl"}
+{"_id":"GnBkSr9GwxqvZOh1","name":"Merhcants Shceme","type":"JournalEntry","parent":null,"sorting":"a","sort":900000,"color":null,"flags":{}}
+{"name":"Tables","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"HHyjZjVxgzWXLT5j"}
+{"_id":"HfzZ9Z0B1k23IIS7","name":"Artifact","type":"Item","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Objects","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"IVGiaqWN91cRJRdF"}
+{"_id":"JCpT70Z8EvPYbMZc","name":"Old Forth","type":"JournalEntry","parent":"tuY1EEp2YhGt0KyJ","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"JGOfV8neRARS86mp","name":"Monsters","type":"JournalEntry","parent":"RqA64gdfd4nGphDq","sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"KI8UvjUXEbFbIzu6","name":"Can's cards","type":"Cards","parent":null,"sorting":"m","sort":200000,"flags":{"ready-to-use-cards":{"owner":"F7QpHyISrskutEEU"}}}
+{"name":"Potion","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"MBLYJ53xBEJG1xDF"}
+{"_id":"MXuS440z7IgLLFLl","name":"Legendary Runes","type":"Item","parent":null,"sorting":"a","sort":1600000,"color":"#743e0b","flags":{}}
+{"_id":"Mlafcq1w6SKOmMuK","name":"Old Watchtower","type":"Scene","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"Mtl6meHnEH7ljus9","name":"Story of Wellspring","type":"Scene","parent":null,"sorting":"m","sort":662500,"color":null,"flags":{}}
+{"_id":"NhGhihUKooplX8Ri","name":"Chaos Spells","type":"Item","parent":null,"sorting":"m","sort":1700000,"color":"#000000","flags":{}}
+{"_id":"NmKbFjnYiwVjRuyn","name":"Cintra Council","type":"JournalEntry","parent":"RqA64gdfd4nGphDq","sorting":"a","sort":300000,"color":"#5a3f3f","flags":{}}
+{"name":"Adventuring Gear","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"OFXj6zW36oTlHKBA"}
+{"name":"Notice Board","type":"JournalEntry","parent":"iIsTM6SPPGCQ1Asa","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PYsWLhHk5O1Rh5qr"}
+{"_id":"RBSR7F4hP6Znc6J4","name":"Fey","type":"Actor","parent":null,"sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"name":"Character Themes","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#c8d147","flags":{},"_id":"RV92mhrklVyydzvF"}
+{"_id":"RaF7axDgjjGg7XC1","name":"_simple_calendar_notes_directory","type":"JournalEntry","parent":null,"sorting":"a","sort":100000,"flags":{"foundryvtt-simple-calendar":{"root":true}}}
+{"_id":"RqA64gdfd4nGphDq","name":"Handouts","type":"JournalEntry","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"_id":"Tf07uvMVuAQRwS3B","name":"Order Spells","type":"Item","parent":null,"sorting":"a","sort":1800000,"color":"#000000","flags":{}}
+{"name":"Dragon","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"TnNS4fcKfZ6WklST"}
+{"name":"Rune Crafting Materials","type":"Item","parent":"mgceZfzH6qphyWVM","sorting":"a","sort":0,"color":null,"flags":{},"_id":"UwgksTAtDXsMD886"}
+{"name":"Main","type":"JournalEntry","parent":"44HyIhnGoaCK5wA6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Vry6qWdbQGVPTWpy"}
+{"_id":"W9zUjjIDLSIWnw6p","name":"Story of Vaska","type":"Scene","parent":null,"sorting":"a","sort":650000,"color":null,"flags":{}}
+{"name":"Landing Scene","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#363a78","flags":{},"_id":"YxTjQwz9B8SFsUGm"}
+{"name":"Episodes","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#5c15e0","flags":{},"_id":"ZmVU2zn8aNbvKezs"}
+{"_id":"a9J5P2d2yOqWFnoL","name":"Seal Progress","type":"JournalEntry","parent":null,"sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"c4ebKTdfbVcp4uit","name":"Characters","type":"JournalEntry","parent":"RqA64gdfd4nGphDq","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"dG0mAZ15UTueGSVx","name":"None","type":"Item","parent":null,"sorting":"a","sort":600000,"color":null,"flags":{}}
+{"name":"Kum Denizi","type":"JournalEntry","parent":"44HyIhnGoaCK5wA6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"e2G8XfDLwn11xQoz"}
+{"_id":"eIYFVbEy1YgdKjUr","name":"Gamemaster cards","type":"Cards","parent":null,"sorting":"m","sort":600000,"flags":{"ready-to-use-cards":{"owner":"gm"}}}
+{"_id":"eUC4uGp16n3wmMT7","name":"Karn","type":"Scene","parent":null,"sorting":"a","sort":300000,"color":"#53656a","flags":{}}
+{"_id":"f1b92Pg3BNZFNSM1","name":"Humanoid","type":"Actor","parent":null,"sorting":"a","sort":-200000,"color":null,"flags":{}}
+{"name":"Monstrosity","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"hp3LDsc4OGSRJyHR"}
+{"_id":"i7g5EqRv53l44WeI","name":"Cintra Handout","type":"JournalEntry","parent":"RqA64gdfd4nGphDq","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"iIsTM6SPPGCQ1Asa","name":"Cintra Places","type":"JournalEntry","parent":null,"sorting":"a","sort":281250,"color":null,"flags":{}}
+{"_id":"iqIZ1t1pvSSJ7DtE","name":"Feats","type":"Item","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
+{"_id":"kZD1wUX0n2JtAFqE","name":"Player Vehicles","type":"Actor","parent":null,"sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"kfSPWdx6TWv1z574","name":"Skill Trees","type":"Scene","parent":null,"sorting":"a","sort":675000,"color":null,"flags":{}}
+{"_id":"lPkW7zI5Y8iV70rl","name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":-400000,"color":"#4c7042","flags":{}}
+{"_id":"mgceZfzH6qphyWVM","name":"Receipts","type":"Item","parent":null,"sorting":"a","sort":950000,"color":null,"flags":{}}
+{"name":"Helm Manor","type":"JournalEntry","parent":"tuY1EEp2YhGt0KyJ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"necrEpcRuUPxhGQn"}
+{"name":"Heles Lodge","type":"JournalEntry","parent":"tuY1EEp2YhGt0KyJ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"oIV72L8z97frUXpH"}
+{"name":"Ruins of Arman","type":"JournalEntry","parent":"tuY1EEp2YhGt0KyJ","sorting":"a","sort":0,"color":null,"flags":{},"_id":"qBLPwBt3ymCyXD1v"}
+{"name":"Ambient","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":"#084107","flags":{},"_id":"qqSMomMJnooYgC4Z"}
+{"_id":"qy3yTRMqugZfxR27","name":"Uncommon","type":"Item","parent":null,"sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"rMJcYnzAPFaLT3sh","name":"States","type":"JournalEntry","parent":null,"sorting":"a","sort":287500,"color":null,"flags":{}}
+{"_id":"tUnAJIirtGN683sF","name":"Cintra","type":"Scene","parent":null,"sorting":"a","sort":100000,"color":"#186d22","flags":{}}
+{"_id":"tnZPBEjO6le3YHzj","name":"Undead","type":"Actor","parent":null,"sorting":"a","sort":-300000,"color":null,"flags":{}}
+{"_id":"tuY1EEp2YhGt0KyJ","name":"Dungeon Levels","type":"JournalEntry","parent":null,"sorting":"a","sort":250000,"color":"#376ccd","flags":{}}
+{"_id":"v7eT6s8czPrC7EoX","name":"Books","type":"Item","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"vBJKIDiFcIYB68Rd","name":"Rare Runes","type":"Item","parent":null,"sorting":"a","sort":1400000,"color":"#23466c","flags":{}}
+{"_id":"vUpW5egBRGkRLfjH","name":"Oguzhan's cards","type":"Cards","parent":null,"sorting":"m","sort":300000,"flags":{"ready-to-use-cards":{"owner":"1AmZtlEJxZzCfT3H"}}}
+{"_id":"xYlvypGPUfpISIZc","name":"Scrolls","type":"Item","parent":null,"sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"xfWObCHkJCcHUgSY","name":"Uncommon Runes","type":"Item","parent":null,"sorting":"a","sort":1300000,"color":"#88ac35","flags":{}}
+{"_id":"yMSz2zOBC1yHll1c","name":"Player Journals","type":"JournalEntry","parent":null,"sorting":"a","sort":200000,"color":"#3a5259","flags":{}}
+{"_id":"yMtgeW1FfTuP9kY6","name":"Treasure","type":"Item","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Artisan's Tools","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"ydtfSZORpX9D1KbS"}
+{"_id":"yqLdKZ5i0Da0nVHG","name":"Order & Chaos Resource","type":"Item","parent":null,"sorting":"a","sort":2000000,"color":null,"flags":{}}
+{"name":"Ammunition","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"zdvcZvU8hQy5xt8d"}
