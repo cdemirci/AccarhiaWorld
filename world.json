@@ -51,8 +51,6 @@
   "systemVersion": "1.6.3",
   "description": "Sırlarla dolu bir dünya. Kaos ve Onur arasındaki azılı savaş.",
   "download": "https://github.com/cdemirci/AccarhiaWorld/raw/main/accarhia.zip",
-  "download": "https://github.com/cdemirci/AccarhiaWorld/raw/main/assets.part1.zip",
-  "download": "https://github.com/cdemirci/AccarhiaWorld/raw/main/assets.part2.zip",
   "url": "https://github.com/cdemirci/AccarhiaWorld",
   "manifest": "https://raw.githubusercontent.com/cdemirci/AccarhiaWorld/main/world.json"
 }
