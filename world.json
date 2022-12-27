@@ -48,15 +48,10 @@
   "nextSession": null,
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.6.3"
+  "systemVersion": "1.6.3",
   "download": "https://github.com/cdemirci/Accarhia/blob/main/accarhia.zip?job=build",
   "description": "Sırlarla dolu bir dünya. Kaos ve Onur arasındaki azılı savaş.",
   "url": "https://github.com/cdemirci/Accarhia",
-<<<<<<< HEAD
   "manifest": "https://gitlab.com/teaml5r/l5r_mariage/-/raw/master/world/world.json",
-
-=======
   "manifest": "https://gitlab.com/teaml5r/l5r_mariage/-/raw/master/world/world.json"
-  
->>>>>>> de22fb701e1f12a43518f1a16504af60c74af581
 }
