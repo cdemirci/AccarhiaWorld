@@ -1,0 +1,19 @@
+{
+	"id": "accarhia-maps",
+	"name": "accarhia-maps",
+	"title": "Accarhia Maps",
+	"description": "Haritalarim.",
+	"version": "1",
+	"author": "nightbird",
+	"authors": [{
+		"name": "nightbird",
+		"url": "https://github.com/cdemirci"
+	}],	
+	"compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": "0.6.5",
+		"verified": "10"
+	},
+	"manifest": "https://github.com/cdemirci/AccarhiaWorld/raw/main/maps.json",
+	"download": "https://github.com/cdemirci/AccarhiaWorld/raw/main/maps.zip"
+}
