@@ -11,36 +11,6 @@
   "languages": [],
   "packs": [],
   "system": "dnd5e",
-  "dependencies": [
-    {
-      "name": "plutonium",
-      "manifest": "https://get.5e.tools/plutonium/module.json",
-      "version": "1.27.1",
-      "author": "Giddy",
-      "type": "module"
-    },
-    {
-      "name": "multilevel-tokens",
-      "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/master/module.json",
-      "version": "1.4.1",
-      "author": "grandseiken",
-      "type": "module"
-    },
-    {
-      "name": "fxmaster",
-      "manifest": "https://gitlab.com/mesfoliesludiques/foundryvtt-fxmaster/-/raw/master/module.json",
-      "version": "1.0.3",
-      "author": "U~man",
-      "type": "module"
-    },
-    {
-      "name": "token-hud-wildcard",
-      "manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json",
-      "version": "1.2.0",
-      "author": "Javieros",
-      "type": "module"
-    }
-  ],
   "socket": false,
   "protected": false,
   "background": "background.jpg",
